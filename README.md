@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Jose
 
-#### I am a bioinformatician working in the [CBCRG](https://github.com/cbcrg) group at the [CRG](https://www.crg.eu/)
+##### I am a bioinformatician working in the [CBCRG](https://github.com/cbcrg) group at the [CRG](https://www.crg.eu/)
 
 <!--
 **JoseEspinosa/joseespinosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
